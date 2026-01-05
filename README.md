@@ -2,7 +2,6 @@
 
 Sou estudante de programação com foco em desenvolvimento front-end.
 Estou construindo projetos práticos utilizando HTML, CSS e JavaScript, com atenção à lógica, organização do código e experiência do usuário.
-Meu objetivo é conquistar uma vaga de estágio ou júnior, aplicando na prática os fundamentos do desenvolvimento web.
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Vitória-Figma" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/figma/figma-original.svg" />
